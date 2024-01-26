@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jar_files">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar_files/javapoet-1.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar_files/ast-10.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar_files/core-10.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
