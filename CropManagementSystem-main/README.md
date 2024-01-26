@@ -1,2 +1,2 @@
 # CropManagementSystem
-INFO5100 - AED Final Project
+Agriculture Management System Final Project
